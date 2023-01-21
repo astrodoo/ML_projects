@@ -1,4 +1,4 @@
-# Capstone: Web Traffic Time Series Forecasting
+# Web Traffic Time Series Forecasting
 
 ![chicago](notebook/images/map_webtraffic.png)
 

@@ -1,4 +1,4 @@
-# Capstone: West Nile Virus
+# West Nile Virus Prediction Modeling
 
 ![chicago](datasets/images/chiskyline.png)
 
