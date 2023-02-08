@@ -9,6 +9,8 @@ Companies invest huge amount of money and efforts in technologies, but this woul
 
 In this project, I analyzed the pattern of data regarding to the adoption rate, and built a model to predict the adoption rate from user's information.
 
+[detail](./notebook/Relax_Inc_Challenge.ipynb#Feature-Engineering)
+
 ## Data Inspection
 
 - **takehome_users**
