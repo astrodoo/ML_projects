@@ -5,7 +5,7 @@
 
 ## Problem Identification Overview
 
-We aim to find out how customers evaluate your compeititors' product, anmely what they like and dislike in a video game by using a **Natural Language Processing (NLP)**. Knowing what makes a video game attractive to a gamer helps the marketing team articulate the message of your product more effectively.
+We aim to find out how customers evaluate your competitors' product, namely what they like and dislike in a video game by using a **Natural Language Processing (NLP)**. Knowing what makes a video game attractive to a gamer helps the marketing team articulate the message of your product more effectively.
 
 - Analyze customers’ reviews about video games
 - Decide whether people like or dislike the video game they bought. Label each review with a sentiment score between -1 and 1.
