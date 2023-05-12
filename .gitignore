@@ -2,3 +2,4 @@
 **/*.swp
 WebTrafficForecast/**/*.zip
 **/.ipynb_checkpoints/*
+NLP/Sentiment_Analysis_NLP/datasets/*
